@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sunkenTrello</string>
+    <string name="action_settings">Settings</string>
+    <string name="google_maps_key">AIzaSyAFl6DlIwl92vcqMU67P_u2RmOa_U2_TpM</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "426277894324",
+    "firebase_url": "https://sunkentrello.firebaseio.com",
+    "project_id": "sunkentrello",
+    "storage_bucket": "sunkentrello.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426277894324:android:8009b0aaf9c4f0e2",
+        "android_client_info": {
+          "package_name": "com.example.android.sunkentrello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426277894324-p1feanj00jkumkq8mje5ku8rmnid5g9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJ_peoGfrmNGcO3QwOKFYOQwNaWms-5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
